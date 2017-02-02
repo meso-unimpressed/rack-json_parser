@@ -7,4 +7,4 @@ addons:
     repo_token: b6750d5cc830de5ca5da5f6ba3c95b7129924f36b6c572e1a38301892b241e2a
 before_install: gem install bundler -v 1.12.5
 after_success:
-  - bundle exec codeclimate-test-reporter
+  - bundle exec codeclimate-test-reporter log/coverage/.resultset.json
