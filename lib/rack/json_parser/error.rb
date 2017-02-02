@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Rack
   class JSONParser
     # Base class for all JSONParser errors

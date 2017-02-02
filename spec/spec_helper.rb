@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require 'bundler/setup'
 require 'simplecov'
 require 'rack/json_parser'
