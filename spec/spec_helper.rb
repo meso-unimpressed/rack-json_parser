@@ -1,4 +1,5 @@
 require 'bundler/setup'
+require 'simplecov'
 require 'rack/json_parser'
 
 RSpec.configure do |config|

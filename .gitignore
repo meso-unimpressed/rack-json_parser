@@ -13,3 +13,6 @@
 
 # bundler
 /vendor/bundle/
+
+# log dir
+/log/
