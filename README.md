@@ -1,5 +1,10 @@
 # Rack::JsonParser
 
+[![Travis CI](https://travis-ci.org/meso-unimpressed/rack-json_parser.svg?branch=master)](https://travis-ci.org/meso-unimpressed/rack-json_parser)
+[![Code Climate](https://codeclimate.com/github/meso-unimpressed/rack-json_parser/badges/gpa.svg)](https://codeclimate.com/github/meso-unimpressed/rack-json_parser)
+[![Test Coverage](https://codeclimate.com/github/meso-unimpressed/rack-json_parser/badges/coverage.svg)](https://codeclimate.com/github/meso-unimpressed/rack-json_parser/coverage)
+[![Issue Count](https://codeclimate.com/github/meso-unimpressed/rack-json_parser/badges/issue_count.svg)](https://codeclimate.com/github/meso-unimpressed/rack-json_parser)
+
 A simple Rack middleware for parsing json from request bodies
 
 ## Installation
