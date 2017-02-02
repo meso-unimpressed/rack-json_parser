@@ -1,4 +1,4 @@
-# Rack::JsonParser
+# Rack::JSONParser
 
 [![Travis CI](https://travis-ci.org/meso-unimpressed/rack-json_parser.svg?branch=master)](https://travis-ci.org/meso-unimpressed/rack-json_parser)
 [![Code Climate](https://codeclimate.com/github/meso-unimpressed/rack-json_parser/badges/gpa.svg)](https://codeclimate.com/github/meso-unimpressed/rack-json_parser)
